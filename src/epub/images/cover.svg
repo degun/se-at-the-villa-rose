@@ -11,7 +11,7 @@
 			fill-opacity: .75;
 		}
 	</style>
-	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
+	<image height="2100" width="1400" x="0" y="0" xlink:href="cover-raster.jpg"/>
 	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z"/>
 	<g aria-label="AT THE VILLA ROSE">
 		<path d="M245.31,1747.81l31.16,77.19l-18.90,0.00l-5.71-15.44l-29.38,0.00l-5.71,15.44l-18.90,0.00l31.16-77.19l16.28,0.00z  M245.87,1794.12l-8.61-22.46l-0.19,0.00l-8.61,22.46l17.40,0.00z"/>
