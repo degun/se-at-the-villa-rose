@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-GB">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">https://standardebooks.org/ebooks/a-e-w-mason/at-the-villa-rose/unknown</dc:identifier>
+		<dc:identifier id="uid">https://standardebooks.org/ebooks/a-e-w-mason/at-the-villa-rose</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
@@ -47,16 +47,16 @@
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/At_the_Villa_Rose</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/a-e-w-mason_at-the-villa-rose_unknown</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/a-e-w-mason_at-the-villa-rose</meta>
 		<dc:creator id="author">A. E. W. Mason</dc:creator>
 		<meta property="file-as" refines="#author">Mason, A. E. W.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Alfred Edward Woodley Mason</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/A._E._W._Mason</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50043666</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Unknown</dc:contributor>
-		<meta property="file-as" refines="#artist">Unknown</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Main_Page</meta>
+		<dc:contributor id="artist">William Orpen</dc:contributor>
+		<meta property="file-as" refines="#artist">Orpen, William</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_Orpen</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">ill</meta>
 		<dc:contributor id="transcriber-1">Charles Franks</dc:contributor>
@@ -81,7 +81,6 @@
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="css/se.css" id="se.css" media-type="text/css"/>
-		<item href="images/cover-raster.jpg" id="cover-raster.jpg" media-type="image/jpeg"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/illustration-1.jpg" id="illustration-1.jpg" media-type="image/jpeg"/>
 		<item href="images/illustration-2.jpg" id="illustration-2.jpg" media-type="image/jpeg"/>
