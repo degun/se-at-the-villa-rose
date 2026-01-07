@@ -2,3 +2,8 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 .telegram{ font-variant: all-small-caps; }
+
+blockquote[epub|type~="z3998:letter"] footer{
+	margin-top: 1em;
+	text-align: right;
+}
