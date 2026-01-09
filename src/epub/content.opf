@@ -47,7 +47,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/000245776</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/At_the_Villa_Rose</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/At_the_Villa_Rose_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/a-e-w-mason_at-the-villa-rose</meta>
 		<dc:creator id="author">A. E. W. Mason</dc:creator>
 		<meta property="file-as" refines="#author">Mason, A. E. W.</meta>
